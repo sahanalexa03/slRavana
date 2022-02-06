@@ -58,7 +58,7 @@ Userbot නිසා; ඔබේ WhatsApp ගිණුම තහනම් කළ 
 
 ## Developers
     
-  [![RAVANA-SL](https://github.com/RAVANA-SL.png?size=100)](https://github.com/RAVANA-SL) |  [![Budy X](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) 
+  [![RAVANA-SL](https://github.com/RAVANA-SL.png?size=100)](https://github.com/RAVANA-SL) |  [![Budy X](https://github.com/MrChaby.png?size=100)](https://github.com/sahanalexa03/slRavanay) 
 ----|----
 [RAVANA-SL](https://github.com/RAVANA-SL)  | [MrChaby](https://github.com/MrChaby) 
 Developer,Bug Fixes, Commits, Modules | Code Owner: Bug Fixes, Modules 
